@@ -12,8 +12,13 @@ You can compile the Extra Options. Just follow these steps:
 !Make sure you're building with Release and Win32 option. See the upper toolbar for them.
 4) Look for the "Output" panel. If it says "Build: 1 succeeded, 0 failed," and stuff, your .asi file has been successfully built. (It will be built into "(Project folder)\Release" folder.)
 5) Now, copy it to your "*GAME LOCATION*\scripts" folder. (Use Ctrl+C, Ctrl+V / Cmd+C, Cmd+V / Strg+C, Strg+V; Right-Click > Copy; via xcopy command on CMD; or how do you like it.)
-6) Copy the SWINEExtraOptionsSettings.ini from main folder into "NFS Carbon\scripts" folder, too.
+6) Copy the SWINEExtraOptionsSettings.ini from main folder into "*GAME LOCATION*\scripts" folder, too.
 7) Run SWINE and see what happens. :)
+------------------------------------------------------------------------------------------------------------
+Quick Location (use search)
+Value / Pointer editing: #Setup #Set
+Injecting Part: #Write #Memory #WM
+	Injecting Selectable: N/A
 ------------------------------------------------------------------------------------------------------------
 More TBA
 ------------------------------------------------------------------------------------------------------------
