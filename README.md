@@ -2,6 +2,10 @@
 S.W.I.N.E. ExScript 1 - Refresh
 Anyone can participate :) , as long as they credit themself on places where it was strongly modified or added.
 ------------------------------------------------------------------------------------------------------------
+# Developement
+In order to save some time, this was used
+https://www.youtube.com/watch?v=MzzmW3adSpI
+------------------------------------------------------------------------------------------------------------
 # How To Compile:
 
 You can compile the Extra Options. Just follow these steps:
