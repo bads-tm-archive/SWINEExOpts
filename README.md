@@ -38,6 +38,11 @@ INI Reader:
 Replace Text: N/A'
 
 ------------------------------------------------------------------------------------------------------------
+### To do list
+1. Make it working (base) 
+2. Add these basics: selectable, Camera, units, possibly in game overlay for units replacement, possibly everything is visible, other cool tweaks I didn't mentioned (possibly not so needed like in nfs ai drives player vehicle) 
+
+
 ### More TBA
 
 ------------------------------------------------------------------------------------------------------------
