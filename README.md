@@ -28,15 +28,17 @@ You can compile this with these steps:
 If not get this https://github.com/ThirteenAG/Ultimate-ASI-Loader/ and put into "GAME LOCATION" folder (main one near game launcher / exectutable) rename dll file do d3d8 And try again.
 
 ------------------------------------------------------------------------------------------------------------
-Quick Location (use search)
-Value / Pointer editing: #Setup #Set
+###### Quick Location (use search)
+
+'Value / Pointer editing: #Setup #Set
 Injecting Part: #Write #Memory #WM
 	Injecting Selectable: N/A
 INI Reader:
 	??? : N/A
-Replace Text: N/A
+Replace Text: N/A'
+
 ------------------------------------------------------------------------------------------------------------
-More TBA
+### More TBA
 
 ------------------------------------------------------------------------------------------------------------
 # © 2017 bads.tm - some rights reserved?
