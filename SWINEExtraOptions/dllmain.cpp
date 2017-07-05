@@ -15,13 +15,11 @@ DWORD WINAPI Thing(LPVOID);
 
  
 int main() {
- while(1)
  {
-    if(GetAsyncKeyState(72)) //When pressed key Function: "Everything is selectable" [Key is PAGE UP]
+    if(GetAsyncKeyState(VK_HOME)) //When pressed key Function: "Everything is selectable" [Key is PAGE UP]
     {
 		int CamMaxIn = (*(DWORD*)(*(DWORD*)(*(DWORD*)(*(DWORD*)(*(DWORD*)0x17B270) + 0x88) + 0x404) + 0x3c) + 0x1C);
 		injector::WriteMemory<float>(CamMaxIn, 1, true);
 	}
-	Sleep(10);
  }
 }
