@@ -19,7 +19,8 @@ int main() {
  {
     if(GetAsyncKeyState(72)) //When pressed key Function: "Everything is selectable" [Key is PAGE UP]
     {
-		injector::WriteMemory<float>((*(float*)(*(DWORD*)(*(DWORD*)(*(DWORD*)(*(DWORD*)0x17B270) + 0x88) + 0x404) + 0x3c) + 0x1C), 1, true);
+		int CamMaxIn = (*(DWORD*)(*(DWORD*)(*(DWORD*)(*(DWORD*)(*(DWORD*)0x17B270) + 0x88) + 0x404) + 0x3c) + 0x1C);
+		injector::WriteMemory<float>(CamMaxIn, 1, true);
 	}
 	Sleep(10);
  }
