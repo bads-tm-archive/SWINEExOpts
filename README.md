@@ -1,6 +1,6 @@
 # SWINEExOpts
 
-## S.W.I.N.E. ExScript - Not yet ready
+## S.W.I.N.E. ExScript - semi-ready
  Anyone can participate/contribute , you can add your name/info on places where it was strongly modified or added.
 ------------------------------------------------------------------------------------------------------------
 
@@ -28,26 +28,9 @@ You can compile this with these steps:
 If not get this https://github.com/ThirteenAG/Ultimate-ASI-Loader/ and put into "GAME LOCATION" folder (main one near game launcher / exectutable) rename dll file do d3d8 And try again.
 
 ------------------------------------------------------------------------------------------------------------
-###### Quick Location (use search)
-
-'Value / Pointer editing: #Setup #Set
-Injecting Part: #Write #Memory #WM
-	Injecting Selectable: N/A
-INI Reader:
-	??? : N/A
-Replace Text: N/A'
-
+### ExOpts Team/Members:
+1. @steakhal https://github.com/steakhal
+2. @bads-tm https://github.com/bads-tm/
+3. @nlgzrgn (because NFSCExOpts was used as base) https://github.com/nlgzrgn/
 ------------------------------------------------------------------------------------------------------------
-### To do list
-1. Make it working (base) 
-2. Add these basics: selectable, Camera, units, possibly in game overlay for units replacement, possibly everything is visible, other cool tweaks I didn't mentioned (possibly not so needed like in nfs ai drives player vehicle) 
-
-
-### More TBA
-
-------------------------------------------------------------------------------------------------------------
-# © 2017 bads.tm - some rights reserved?
-
-![badstm](https://github.com/bads-tm/bads-tm.github.io/raw/master/uploads/sys/badslogo.png)
-
-![nlgzrgn](https://yt3.ggpht.com/-wF4jwvie6wk/AAAAAAAAAAI/AAAAAAAAAAA/KrZ_r130Wfw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg) ?
+# © 2017 ExOpts Team/Members
