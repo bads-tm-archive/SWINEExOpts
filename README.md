@@ -28,6 +28,8 @@ You can compile this with these steps:
 7) Run Game and see what happens. :)
 If not get this https://github.com/ThirteenAG/Ultimate-ASI-Loader/ and put into "GAME LOCATION" folder (main one near game launcher / exectutable) rename dll file to d3d8 And try again.
 
+**alternative compiling, not finished**
+
 Alternative Compiling: Build.bat [Still M$ Visual Studio]
 1) Start build.bat and hopefully it compiles!
 
