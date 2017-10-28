@@ -1,0 +1,28 @@
+/* From "S.W.I.N.E. Hacker v1.1.CT" file
+<CheatEntry>
+	<ID>440</ID>
+	<Description>"Max zoom in"</Description>
+	<VariableType>Float</VariableType>
+	<Address>0057B270</Address>
+	<Offsets>
+		<Offset>1C</Offset>
+		<Offset>0</Offset>
+		<Offset>3C</Offset>
+		<Offset>404</Offset>
+		<Offset>88</Offset>
+	</Offsets>
+</CheatEntry>
+*/
+static void setMaxZoomIn() {
+	const DWORD Varbase  = 0x0057B270;
+	const DWORD Varoff[] = { 0x88, 0x404, 0x3c, 0x0, 0x1c };
+
+	const DWORD Vardyn = FindDynAddr(Varbase, Varoff);
+	const float value = ReadMemory<float>(Vardyn, false);
+
+	std::cout << std::hex << Vardyn << " :: max zoom in old: "
+		<< std::dec << value << std::flush;
+
+	WriteMemory<float>(Vardyn, 1.0, true /*unpotect*/);
+	std::cout << ", new value: " << 1 << std::endl;
+}

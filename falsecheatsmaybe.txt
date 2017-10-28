@@ -1,0 +1,40 @@
+http://www.cheatbook.de/files/swine.htm
+
+S.W.I.N.E
+
+Cheat Codes:
+------------
+Update by: Binay Kumar Shah
+Email: binayshah@in.com
+Submitted by: Allan
+E-mail: IlHansenIl@hansen.dk
+
+Press [SHIFT] + [ENTER] to open the console, then type:
+
+Code                 Result
+---------------------------
+smarten            - Increased Rank of Selected Unit
+mo money           - Get Additional 1000 Credits
+quicker than death - Kill Enemy Units with 1 Shot
+blitzkrieg         - Skip Level
+instant delivery   - Get Units Fast
+show fps           - Show Framerate
+
+
+More:
+-----
+Cheat         Result
+--------------------
+Shift + F1  - Zoom
+Shift + F2  - Fog of War
+Shift + F3  - God Mode
+Shift + F4  - Win Mission
+Shift + F5  - Quick Save
+Shift + F6  - Shades
+
+
+All vehicles:
+-------------
+On the first level, enable the mo money code. Unlike other levels
+(excluding the last ones), you will have every vehicle unlocked.
+After the second level, you have to unlock them yourself.
